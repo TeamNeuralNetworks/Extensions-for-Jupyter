@@ -5,7 +5,7 @@ A list of available plugins can be found her : https://jupyter-contrib-nbextensi
 ```
 conda install -c conda-forge jupyter_contrib_nbextensions
 
-!jupyter contrib nbextension install --user
+jupyter contrib nbextension install --user
 ```
 
 
